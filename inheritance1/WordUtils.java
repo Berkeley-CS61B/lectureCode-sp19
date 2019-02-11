@@ -13,12 +13,11 @@ public class WordUtils {
    }
 
     public static void main(String[] args) {
-     AList<String> someList = new AList<>();
+     List61B<String> someList = new SLList<>();
      someList.addLast("elk");
      someList.addLast("are");
      someList.addLast("watching");
      System.out.println(longest(someList));
-     //someList.print();
   }
 }
 
