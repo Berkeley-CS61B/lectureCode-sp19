@@ -32,8 +32,8 @@ public class ArraySet<T> {
     }
 
     /* Also to do:
-    1. Implement a toString method.
-    2. Implement an equals() method.
-    3. Make ArraySet implement the Iterable<T> interface.
+    1. Make ArraySet implement the Iterable<T> interface.
+    2. Implement a toString method.
+    3. Implement an equals() method.
     */
 }
