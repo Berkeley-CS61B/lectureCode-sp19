@@ -5,7 +5,7 @@ public class DogLauncher {
 		Dog d2 = new Dog(100);
 
 		//Dog bigger = Dog.maxDog(d, d2);
-		Dog bigger = d.maxDog(d2);
+		Dog bigger = d.maxDog(d,d2);
 		bigger.makeNoise();
 
 		//System.out.println(d.binomen);
